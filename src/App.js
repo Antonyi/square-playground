@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Square from "./Square";
 
 function App() {
   return (
@@ -10,15 +11,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
+      <Square size={50} />
+      <Square size={75} showTitle={true} initialColor="green"/>
+      <Square size={100} showTitle={false} initialColor="orange"/>
     </div>
   );
 }

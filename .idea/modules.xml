@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../WebstormProjects/ReactUdemyFirst/.idea/ReactUdemyFirst.iml" filepath="$PROJECT_DIR$/../WebstormProjects/ReactUdemyFirst/.idea/ReactUdemyFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/square-playground.iml" filepath="$PROJECT_DIR$/.idea/square-playground.iml" />
+    </modules>
+  </component>
+</project>
